@@ -1,5 +1,4 @@
-## Links
-[LinkedIn Profile](https://www.linkedin.com/in/michaeltanuwidjaja/)
+View my [LinkedIn Profile](https://www.linkedin.com/in/michaeltanuwidjaja/)
 
 ## Projects
 Project1
