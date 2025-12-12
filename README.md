@@ -1,9 +1,7 @@
 # Michael Benhard Tanuwidjaja
 
 ## Links
-link1
-link2
-link3
+[LinkedIn Profile](https://www.linkedin.com/in/michaeltanuwidjaja/)
 
 ## Projects
 Project1
