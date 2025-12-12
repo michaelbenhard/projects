@@ -1,5 +1,3 @@
-# Michael Benhard Tanuwidjaja
-
 ## Links
 [LinkedIn Profile](https://www.linkedin.com/in/michaeltanuwidjaja/)
 
