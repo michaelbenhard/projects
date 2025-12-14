@@ -1,12 +1,6 @@
 # Overview
 Data Analyst & BI Specialist with experience in data visualization, dashboarding, and analytical modeling. I’m interested in building clean, reproducible workflows using **Python**, **SQL**, and modern **BI tools**. Here you’ll find projects on analytics, forecasting, data pipelines, and exploratory data analysis. My personal interests which I try to implement into my personal projects include: sports (basketball, football, boxing, etc.) and music.
 
-# Contact Information
-[LinkedIn](https://www.linkedin.com/in/michaeltanuwidjaja/)
-
-
-[Email](michaelb.tanuwidjaja@gmail.com)
-
 # Projects
 
 ## Dashboard
@@ -19,7 +13,14 @@ The process includes processes such as extracting data from Salesforce and Data 
 One of the dashboard that we have created is a KPI Review on the Sales Team to be used for evaluation. The metrics we chose to display are: Success Rate, Total Value of Contract, Contract Retention Duration, Number of Renewed Contracts and more. We made it so that dashboard viewer are able to review the metrics based on the Sales Team Level: Salesperson, Sales Manager, as well as General Manager of Sales. In order for the metrics to be reviewed on multiple levels. Furthermore, we added a drill down option in order for dashboard viewers to look into the more detailed information.
 
 ![Main Dashboard Page](assets/dashboard2.1.PNG)
+*Test
 ![Drilled Down Dashboard Page](assets/dashboard2.2.PNG)
 ![Other Details Dashboard Page](assets/dashboard3.1.PNG)
 ![Other Details Dashboard Page](assets/dashboard3.2.PNG)
 ![Other Details Dashboard Page](assets/dashboard3.3.png)
+
+## Contact Information
+[LinkedIn](https://www.linkedin.com/in/michaeltanuwidjaja/)
+
+
+[Email](michaelb.tanuwidjaja@gmail.com)
