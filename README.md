@@ -12,9 +12,12 @@ The process includes processes such as extracting data from Salesforce and Data 
 
 One of the dashboard that we have created is a KPI Review on the Sales Team to be used for evaluation. The metrics we chose to display are: Success Rate, Total Value of Contract, Contract Retention Duration, Number of Renewed Contracts and more. We made it so that dashboard viewer are able to review the metrics based on the Sales Team Level: Salesperson, Sales Manager, as well as General Manager of Sales. In order for the metrics to be reviewed on multiple levels. Furthermore, we added a drill down option in order for dashboard viewers to look into the more detailed information.
 
+
+Main Dashboard Page:
 ![Main Dashboard Page](assets/dashboard2.1.PNG)
-*Test
+Drilled Down Dashboard Page:
 ![Drilled Down Dashboard Page](assets/dashboard2.2.PNG)
+Other Details Dashboard Page:
 ![Other Details Dashboard Page](assets/dashboard3.1.PNG)
 ![Other Details Dashboard Page](assets/dashboard3.2.PNG)
 ![Other Details Dashboard Page](assets/dashboard3.3.png)
