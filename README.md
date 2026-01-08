@@ -26,7 +26,11 @@ Other Details Dashboard Page:
 
 In addition to the Sales Team KPI dashboard above, this repository also includes a comprehensive **Order-to-Cash (O2C) performance dashboard**, available in PDF format:
 
-📄 **[O2C All Order Dashboard (dashboard4.pdf)](dashboard4.pdf)**
+Main Dashboard Page:
+![Main Dashboard Page](assets/O2C1.png)
+Supporting Dashboard Pages:
+![Details Dashboard Page](assets/O2C2.png)
+![Details Dashboard Page](assets/O2C3.png)
 
 This dashboard provides an executive-level view of **order intake, pipeline health, execution progress, and financial performance**, supporting both operational monitoring and strategic decision-making.
 
