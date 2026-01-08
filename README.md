@@ -109,7 +109,7 @@ The work demonstrates my experience translating complex, multi-source datasets i
 This repository also includes a **statistical modeling project** completed as part of **DATA 410 (University of British Columbia)**. The project focuses on **predicting obesity risk from lifestyle and behavioral data**, with an emphasis on **methodology, model selection, and interpretability**, rather than purely on results.
 
  **Project Paper**:  
-[Understanding Obesity: A Statistical Approach to Lifestyle and Health (PDF)](DATA_410_Project.pdf)
+[Understanding Obesity: A Statistical Approach to Lifestyle and Health (PDF)](assets/DATA_410_Project.pdf)
 
 
 ---
