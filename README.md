@@ -103,6 +103,49 @@ This dashboard was designed to:
 - Maintain clarity without sacrificing analytical depth
 
 The work demonstrates my experience translating complex, multi-source datasets into **clear, decision-oriented business intelligence artifacts**.
+
+## 🧠 Statistical Modeling & Data Science Project
+
+This repository also includes a **statistical modeling project** completed as part of **DATA 410 (University of British Columbia)**. The project focuses on **predicting obesity risk from lifestyle and behavioral data**, with an emphasis on **methodology, model selection, and interpretability**, rather than purely on results.
+
+ **Project Paper**:  
+[Understanding Obesity: A Statistical Approach to Lifestyle and Health (PDF)](DATA_410_Project.pdf)
+
+
+---
+
+### Analytical Approach
+The project follows a standard **data science workflow**:
+- Problem framing and hypothesis formulation
+- Data cleaning and feature engineering
+- Model fitting and diagnostics
+- Model comparison and selection
+
+---
+
+### Methods Used
+- **Generalized Linear Models (Logistic Regression)**  
+  Used to model obesity risk as a binary outcome, prioritizing interpretability and statistical inference.
+
+- **Feature Selection (Backward Selection)**  
+  Applied to reduce model complexity, remove weak predictors, and improve generalization.
+
+- **Generalized Additive Models (GAMs)**  
+  Used to capture potential non-linear relationships between predictors and obesity risk.
+
+- **Model Diagnostics & Validation**  
+  Included multicollinearity checks, residual analysis, and ROC-based evaluation to assess model reliability.
+
+---
+
+### Data Science Focus
+- Emphasis on **explainable modeling** over black-box approaches  
+- Clear trade-offs between **model simplicity and flexibility**
+- Alignment with real-world decision-making where interpretability matters
+
+This project demonstrates experience applying **statistical learning techniques** to real-world data while maintaining analytical rigor and clarity.
+
+
 ## Contact Information
 [LinkedIn](https://www.linkedin.com/in/michaeltanuwidjaja/)
 
