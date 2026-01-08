@@ -22,6 +22,83 @@ Other Details Dashboard Page:
 ![Other Details Dashboard Page](assets/dashboard3.2.PNG)
 ![Other Details Dashboard Page](assets/dashboard3.3.png)
 
+## Dashboard (Extended Analysis – Order-to-Cash Overview)
+
+In addition to the Sales Team KPI dashboard above, this repository also includes a comprehensive **Order-to-Cash (O2C) performance dashboard**, available in PDF format:
+
+📄 **[O2C All Order Dashboard (dashboard4.pdf)](dashboard4.pdf)**
+
+This dashboard provides an executive-level view of **order intake, pipeline health, execution progress, and financial performance**, supporting both operational monitoring and strategic decision-making.
+
+### Key Analytical Components
+
+#### 1. Order Intake & Waterfall Analysis
+The dashboard presents **order intake waterfall charts** for both:
+- **Recurring contracts**
+- **One-time contracts (OTC)**
+
+These views illustrate how the order pipeline evolves from:
+- Current orders  
+- New orders  
+- Cancellations  
+- Pending sales processes  
+- Successfully closed deals  
+
+This structure enables stakeholders to clearly identify **drivers of growth, leakage points, and pipeline risk** across the sales lifecycle.
+
+#### 2. Aging Analysis (Recurring & OTC)
+Dedicated **aging tables** segment outstanding orders by:
+- Not yet due
+- 1–14 days overdue
+- 15–30 days overdue
+- Over 30 days overdue
+
+This allows teams to:
+- Monitor operational bottlenecks
+- Identify delayed activations
+- Prioritize follow-ups based on financial exposure and aging risk
+
+#### 3. Pipeline Movement Tracking
+Monthly pipeline movement tables track:
+- Beginning balance
+- New contract additions
+- Contract cancellations
+- Project completions
+- Ending balance
+
+This view supports **forecast validation** and helps management understand whether pipeline changes are driven by sales velocity, churn, or execution delays.
+
+#### 4. Budget vs Actual Performance
+The dashboard includes **cumulative and monthly comparisons** of:
+- Order intake vs budget
+- SF closed orders vs budget
+
+These comparisons are further segmented by:
+- Product group
+- Sales channel (ISP vs Non-ISP)
+- Individual sales contributors
+
+This allows finance and leadership teams to evaluate **performance against targets** at multiple organizational levels.
+
+#### 5. Industry, Region, and Sales Segmentation
+Additional breakdowns analyze order intake by:
+- Industry
+- Province and city
+- Individual sales representatives
+
+These dimensions help uncover:
+- Geographic demand patterns
+- Industry concentration risk
+- Sales productivity differences across regions and roles
+
+### Business Impact
+This dashboard was designed to:
+- Bridge **Sales, Finance, and Operations**
+- Support **CFO-level performance reviews**
+- Enable **data-driven forecasting and accountability**
+- Maintain clarity without sacrificing analytical depth
+
+The work demonstrates my experience translating complex, multi-source datasets into **clear, decision-oriented business intelligence artifacts**.
 ## Contact Information
 [LinkedIn](https://www.linkedin.com/in/michaeltanuwidjaja/)
 
